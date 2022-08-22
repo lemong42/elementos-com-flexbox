@@ -7,7 +7,7 @@
 <img alt="Shield de status finalizado" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=green&style=for-the-badge">
 <img alt="Shield de last update no dia 22.08.2022" src="http://img.shields.io/static/v1?label=LAST%20UPDATE&message=22.08.2022&color=blue&style=for-the-badge">
   
-Esse projeto foi desenvolvido para ampliar meus conhecimentos em CSS com o uso de flexbox. Nele desenvolvi o projeto sugerido, site Alurinha, e montei o layout do mesmo utilizando somente a propriedade Flexbox.
+Esse projeto foi desenvolvido para ampliar meus conhecimentos em CSS com o uso de flexbox. Nele desenvolvi o projeto sugerido, site Alurinha, e posicionei todos os elementos do mesmo utilizando somente a propriedade Flexbox.
 
 ## Funcionalidades do projeto
 
@@ -15,7 +15,11 @@ Esse projeto foi desenvolvido para ampliar meus conhecimentos em CSS com o uso d
 
 ![Lista de cursos do site](https://user-images.githubusercontent.com/90742197/186009810-4d0efc34-ea8a-4936-b1ca-1d874d858439.png)
 
-`Funcionalidade 2`: design responsivo.
+`Funcionalidade 2`: diferentes tipos de elementos posicionados com a propriedade flexbox.
+
+![Site alurinha](https://user-images.githubusercontent.com/90742197/186012409-2bc1515a-929c-4569-b4d3-b9789ff99317.png)
+
+`Funcionalidade 3`: design responsivo.
 
 ## Layout web
 
